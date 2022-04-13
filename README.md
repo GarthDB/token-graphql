@@ -1,3 +1,5 @@
+![tests workflow](https://github.com/GarthDB/node-basic-template/actions/workflows/test.yml/badge.svg)
+
 # Template project
 
 This project can be used as a template for node projects.
