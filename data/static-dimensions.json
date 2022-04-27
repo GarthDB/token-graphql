@@ -1,0 +1,14 @@
+{
+  "divider-thickness-small": {
+    "value": "1px"
+  },
+  "divider-thickness-medium": {
+    "value": "1px"
+  },
+  "divider-thickness-large": {
+    "value": "1px"
+  },
+  "button-minimum-width-multiplier": {
+    "value": "2.25"
+  }
+}
